@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @darthsidiou5
-- 👀 I’m interested in understanding basic fundamentals of coding.
-- 🌱 I’m currently learning as much as i can.  
-- 💞️ I’m looking to collaborate on unknown.
+- 👀 I’m interested in understanding basic fundamentals of coding, and achieving unlimited power.
+- 🌱 I’m currently learning as much as i can about the ways of the force. 
+- 💞️ I’m looking to collaborate on the rule of two, no more and no less.
 - 📫 How to reach me please don't.
 
 <!---
